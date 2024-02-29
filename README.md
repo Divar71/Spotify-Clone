@@ -1,4 +1,4 @@
-Spotify -  A we based music app
+#A Spotify -  A we based music app
 
 [See the Demo](https://divar71.github.io/Spotify-Clone/)
 
